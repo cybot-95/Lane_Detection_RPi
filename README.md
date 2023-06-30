@@ -91,4 +91,8 @@ RAM: 8GB DDR4 @ 3200MHz
 # Note: 
 You can use Raspberry Pi Zero or greater board. RPi 3b is suggest for non laggy experience.
 
-						 
+# Files:
+1.Motors_t3 for testing dc motor controls by keyboard, it also checks motor driver.
+2.Camera_test to test camera module.
+3.HSV_Test for testing hsv colour values used in lane detection.
+4.LKA_T2 is the complete algorithm for lane detection.
